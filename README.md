@@ -3,7 +3,7 @@ Hello Everyone! My name is Saumya Singh
 
 I am a final year Computer Science and Engineering student. I'm deeply passionate about exploring new technologies and expanding my skillset, all while keeping a focus on finding eco-friendly coding solutions. As our world faces pressing environmental challenges, I believe that every line of code can make a difference. Let's learn together and build a brighter, more sustainable future—one eco-friendly solution at a time! 🌱💻
 
-* 🧠  I'm learning Data Structures and Algorithms on
+* 🧠  I'm learning Data Structures and Algorithms
 * 🤝  I'm open to collaborating on projects with an impact
 
 ### Skills
